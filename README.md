@@ -3,6 +3,7 @@
 주1회(매주 저녁 9시)에 모여서 각자 맡은 부분을 정리한 후 온라인공유
 - 온라인 플랫폼 : 게더타운
 - 활동1 : 문법정리 후 issue에 업로드
+- 활동2 : 매일매일 최소3시간 분량의 영상 범위를 적고 강의를 다들었을시에는 인증후 체크(패널티 : 문법정리 1개 더)
 ## 스터디 참가자 
  |👩‍💻 Name 🧑‍💻|🔗 Github 🔗|
 |:---:|:---:|
@@ -18,3 +19,12 @@
 |1주차|Sunny|[튜플](https://github.com/AllenSwiftClass/Team6/issues/1g)|
 |1주차|Sunny|[삼항연산자와 범위연산자](https://github.com/AllenSwiftClass/Team6/issues/2)|
 |1주차|Youth|[프로그래밍의 기본 원리와 조건문](https://github.com/AllenSwiftClass/Team6/issues/4)|
+
+## 개인 공부 스터디
+### 1주차
+ |☀️날짜☀️|👩‍💻 Name 🧑‍|🔗 인강범위(3시간) 🔗| 달성여부 |
+|:---:|:---:|:---:|:---:|
+|7/7(목)|Youth|104강~111-1강(약4시간)|[ ]|
+|1주차|Sunny|[튜플](https://github.com/AllenSwiftClass/Team6/issues/1g)||
+|1주차|Sunny|[삼항연산자와 범위연산자](https://github.com/AllenSwiftClass/Team6/issues/2)||
+|1주차|Youth|[프로그래밍의 기본 원리와 조건문](https://github.com/AllenSwiftClass/Team6/issues/4)||
