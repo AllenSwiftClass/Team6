@@ -9,7 +9,7 @@
 |:---:|:---:|
 |Youth|[kimscastle](https://github.com/kimscastle)|
 |Sunny|[SunnnySong](https://github.com/SunnnySong)|
-|Brody|[pololover](https://github.com/pololover)|
+|Brody|[seunghyunChoen](https://github.com/seunghyunCheon)|
 
 ## 문법 정리 스터디
 
