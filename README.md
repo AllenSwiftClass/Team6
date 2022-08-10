@@ -26,7 +26,7 @@
 |2주차|||
 |2주차|||
 |3주차|Brody|[클래스와 구조체](https://github.com/AllenSwiftClass/Team6/issues/8)|
-|3주차|||
+|3주차|Brody|[속성](https://github.com/AllenSwiftClass/Team6/issues/9)|
 |3주차|||
 |3주차|||
 |3주차|||
