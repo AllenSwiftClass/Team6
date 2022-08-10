@@ -20,7 +20,7 @@
 |1주차|Sunny|[삼항연산자와 범위연산자](https://github.com/AllenSwiftClass/Team6/issues/2)|
 |1주차|Youth|[프로그래밍의 기본 원리와 조건문](https://github.com/AllenSwiftClass/Team6/issues/4)|
 |2주차|Brody|[반복문](https://github.com/AllenSwiftClass/Team6/issues/5)|
-|2주차|||
+|2주차|Brody|[함수](https://github.com/AllenSwiftClass/Team6/issues/6)|
 |2주차|||
 |2주차|||
 |2주차|||
